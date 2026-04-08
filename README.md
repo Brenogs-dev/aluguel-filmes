@@ -19,3 +19,6 @@ Aplicação para gerenciar aluguel de filmes, permitindo cadastro, aluguel e dev
 javac -cp junit.jar src/*.java tests/*.java
 java -cp .:junit.jar org.junit.runner.JUnitCore AluguelServiceTest
 ```
+## Evidência dos Testes
+
+![Testes passando](testes.png)
